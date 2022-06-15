@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tedhan23 (high school junior)
-- 👀 I’m interested in procedural generation, robotics, and simulation
-- 🌱 I’m currently learning Rust and exploring ROS
+- 👀 I’m interested in GUI, procedural generation, robotics, and simulation
+- 🌱 I’m currently learning Python and exploring ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eduard.haney@gmail.com
 
